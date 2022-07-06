@@ -3,8 +3,8 @@
 This repository contains Supplementary Information pertaining to the manuscript "Geometric Control of Carbon–Carbon Reductive Elimination from a Platinum(IV) Pincer Complex" as submitted to _Organometallics_ for the special issue “Organometallic Chemistry Inspired by Maurice Brookhart”.
 
 The repository contains:
-* Gaussian input (.com) and output (.log) files for all geometry optimizations and single-point energy calculations described in the manuscript
-* .xyz files corresponding to all optimized structures at an M06+D3/6-311G(2d,p)+LANL2TZ(f) level of theory
+* Gaussian input (.com) and output (.log) files for all geometry optimizations and single-point energy calculations
+* .xyz files corresponding to all optimized structures at the M06+D3/6-311G(2d,p)+LANL2TZ(f) level of theory
 * A summary Excel spreadsheet (ncnpt_dft_energies.xlsx) containing energies and free energies for each calculated species, along with the associated energy and free energy barriers for the various transitions states (TS) described in the manuscript
 
 The naming scheme for files is outlined in the Excel spreadsheet and is listed below for convenience.
